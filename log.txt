@@ -1,0 +1,403 @@
+
+
+concert-this drake
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/10/2019
+------------------------------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/11/2019
+------------------------------
+Venue: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03/13/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/19/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/21/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/22/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/26/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/27/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/28/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/01/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/02/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/04/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/05/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/08/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/09/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/11/2019
+------------------------------
+Venue: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04/19/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/23/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/25/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/26/2019
+------------------------------
+Venue: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09/27/2019
+------------------------------
+
+movie-this the matrix
+Movie Title: The Matrix
+Year Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Movie Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this drake
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/10/2019
+------------------------------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/11/2019
+------------------------------
+Venue: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03/13/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/19/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/21/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/22/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/26/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/27/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/28/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/01/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/02/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/04/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/05/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/08/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/09/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/11/2019
+------------------------------
+Venue: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04/19/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/23/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/25/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/26/2019
+------------------------------
+Venue: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09/27/2019
+------------------------------
+
+concert-this drake
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/10/2019
+------------------------------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/11/2019
+------------------------------
+Venue: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03/13/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/19/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/21/2019
+------------------------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/22/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/26/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/27/2019
+------------------------------
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/28/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/01/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/02/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/04/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/05/2019
+------------------------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/08/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/09/2019
+------------------------------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/11/2019
+------------------------------
+Venue: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04/19/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/23/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/25/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/26/2019
+------------------------------
+Venue: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09/27/2019
+------------------------------
+
+do-what-it-says 
+do-what-it-says 
+do-what-it-says 
+concert this drake
+Incorrect Command. Please try again
+concert-this drake
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/10/2019Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/11/2019Venue: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03/13/2019Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/19/2019Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/21/2019Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/22/2019Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/26/2019Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/27/2019Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/28/2019Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/01/2019Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/02/2019Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/04/2019Venue: The O2
+Location: London, United Kingdom
+Date: 04/05/2019Venue: The O2
+Location: London, United Kingdom
+Date: 04/08/2019Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/09/2019Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/11/2019Venue: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04/19/2019Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/23/2019Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/25/2019Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/26/2019Venue: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09/27/2019
+concert-this drake
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/10/2019
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/11/2019
+Venue: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03/13/2019
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/19/2019
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/21/2019
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/22/2019
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/26/2019
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/27/2019
+Venue: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03/28/2019
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/01/2019
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/02/2019
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/04/2019
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/05/2019
+Venue: The O2
+Location: London, United Kingdom
+Date: 04/08/2019
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/09/2019
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 04/11/2019
+Venue: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04/19/2019
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/23/2019
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/25/2019
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04/26/2019
+Venue: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09/27/2019
+
+exit 
+Incorrect Command. Please try again
+Incorrect Command. Please try again
+ 
+ 
+Incorrect Command. Please try again
+spotify-this-song du hast
+Artist: Rammstein
+Song Title: Du hast
+Preview: null
+Album: Sehnsucht
+movie-this the matrix
+Movie Title: The Matrix
+Year Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Movie Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving

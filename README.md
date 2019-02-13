@@ -1,5 +1,9 @@
 # LIRI
 
+### Purpose
+
+LIRI is a program that seeks to emulate the functionality of Apple's SIRI.While far simpler, it can take in user requests based on a few commands and then present relevant info to the user.
+
 ### Commands
 
 **concert-this**:\
